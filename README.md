@@ -9,4 +9,5 @@ This is a game I made using SFML. It is a 2D top-down shooter where you control 
 
 ## To run game
 - The .exe is found in the "Release" folder.
+
 _Note: running the game will not properly load the fonts and textures. It may also think it's a virus. To see what the game would look like, I recommend watching the video linked above._
