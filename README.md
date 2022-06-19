@@ -5,7 +5,7 @@ This is a game I made using SFML. It is a 2D top-down shooter where you control 
 - Go into the "Final Game" folder and take a look at all the .cpp files and .h files.
 
 ## To watch gameplay
-- The YouTube link will be put here soon
+- 1 minute project demo: https://www.youtube.com/watch?v=uwNPpsw8rg8
 
 ## To run game
 - The .exe is found in the "Release" folder.
