@@ -1,0 +1,210 @@
+﻿  Bullet.cpp
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(15,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(19,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(20,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(34,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(34,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(43,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(43,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(50,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Bullet.cpp(51,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Enemy.cpp
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(24,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(24,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(54,132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(76,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(81,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(81,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(85,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(89,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(90,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(90,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(93,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(98,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(98,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(103,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(108,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Enemy.cpp(108,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(29,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(29,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(31,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(51,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(51,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(66,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(66,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(67,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(82,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(82,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(87,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(97,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(111,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(113,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(113,66): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(116,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(120,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(121,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(144,96): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(145,98): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(217,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(221,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(249,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(261,23): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xutility(149,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2010): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,sf::RenderWindow*,std::shared_ptr<Player>&,int&,double,int&,int&>(_Ty &,sf::RenderWindow *&&,std::shared_ptr<Player> &,int &,double &&,int &,int &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Enemy
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : see reference to function template instantiation 'std::_Ref_count_obj2<Enemy>::_Ref_count_obj2<_Ty,std::shared_ptr<Player>&,int&,double,int&,int&>(_Ty &&,std::shared_ptr<Player> &,int &,double &&,int &,int &)' being compiled
+          with
+          [
+              _Ty=sf::RenderWindow *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2730): message : see reference to function template instantiation 'std::_Ref_count_obj2<Enemy>::_Ref_count_obj2<_Ty,std::shared_ptr<Player>&,int&,double,int&,int&>(_Ty &&,std::shared_ptr<Player> &,int &,double &&,int &,int &)' being compiled
+          with
+          [
+              _Ty=sf::RenderWindow *
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\main.cpp(134): message : see reference to function template instantiation 'std::shared_ptr<Enemy> std::make_shared<Enemy,sf::RenderWindow*,std::shared_ptr<Player>&,int&,double,int&,int&>(sf::RenderWindow *&&,std::shared_ptr<Player> &,int &,double &&,int &,int &)' being compiled
+  Player.cpp
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(15,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(15,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(21,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(21,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(22,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(28,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(28,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(48,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(49,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(49,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\John Divinagracia\source\repos\Final Game\Final Game\Player.cpp(72,114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+Bullet.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Enemy.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+main.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Player.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Bullet.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Magenta" (?Magenta@Color@sf@@2V12@B)
+Bullet.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Cyan" (?Cyan@Color@sf@@2V12@B)
+Player.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Cyan" (?Cyan@Color@sf@@2V12@B)
+Enemy.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Red" (?Red@Color@sf@@2V12@B)
+Enemy.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+Enemy.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Transparent" (?Transparent@Color@sf@@2V12@B)
+Player.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B)
+C:\Users\John Divinagracia\source\repos\Final Game\Debug\Final Game.exe : fatal error LNK1120: 7 unresolved externals
